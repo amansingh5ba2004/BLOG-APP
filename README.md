@@ -95,8 +95,4 @@ blog-app/
 - Enhance features (e.g., add tags, notifications, or social sharing) via frontend or backend modules.
 - Integrate additional user roles or advanced moderation tools as needed.
 
-## License
 
-This project is open-source and available under the [MIT License](LICENSE).
-
-> Build your community and share your stories with an interactive, modern blogging platform!
